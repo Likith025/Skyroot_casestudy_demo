@@ -1,0 +1,13 @@
+../Core/Src/flight_sequencer_app.c:40:13:busy_us	2
+../Core/Src/flight_sequencer_app.c:45:17:now_us	1
+../Core/Src/flight_sequencer_app.c:51:13:print	1
+../Core/Src/flight_sequencer_app.c:60:13:LoggerTask	2
+../Core/Src/flight_sequencer_app.c:73:13:mbox_put	1
+../Core/Src/flight_sequencer_app.c:81:12:mbox_get	2
+../Core/Src/flight_sequencer_app.c:93:13:Sensor1Task	2
+../Core/Src/flight_sequencer_app.c:107:13:Sensor2Task	2
+../Core/Src/flight_sequencer_app.c:121:13:SequencerTask	7
+../Core/Src/flight_sequencer_app.c:152:13:SupervisorTask	8
+../Core/Src/flight_sequencer_app.c:184:13:SlowTask	3
+../Core/Src/flight_sequencer_app.c:205:13:spawn	1
+../Core/Src/flight_sequencer_app.c:211:6:FlightSequencer_Start	1
